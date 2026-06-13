@@ -21,7 +21,7 @@ Video filetypes supported are:
 mp4, avi, mkv, webm, 3gp, flv, wmv, mts, and mov.
 
 
-Although this bash scripts was designed to run on linux debian clones (eg. ubuntu, mint, debian etc) it can be run on arch or other linux derivatives through a simple conversion process. However, this is out of the scope of this script. Additional research is recommended.
+This scripts was designed to run on linux debian clones (eg. ubuntu, mint, debian etc). Other linux derivatives, such as arch, are unsupported.
 
 # INSTALLATION
 
