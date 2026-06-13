@@ -18,8 +18,7 @@ As long as your system can run ffmpeg, the system requirements are sufficient. T
 
 Video filetypes supported are:
 
-mp4
-avi, mkv, webm, 3gp, flv, wmv, mts, and mov.
+mp4, avi, mkv, webm, 3gp, flv, wmv, mts, and mov.
 
 
 Although this bash scripts was designed to run on linux debian clones (eg. ubuntu, mint, debian etc) it can be run on arch or other linux derivatives through a simple conversion process. However, this is out of the scope of this script. Additional research is recommended.
