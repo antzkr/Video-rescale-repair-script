@@ -3,7 +3,8 @@
 Version 3.2
 
 Changelog:-
-Rrewrite to include positional parameter support, ffmpeg installed check, supported file extension check, show successful result, percentage & ETA display, added support for more filetypes, color tweaks, ncurses-style menus with dialog.
+
+Rewrite to include positional parameter support, ffmpeg installed check, supported file extension check, show successful result, percentage & ETA display, added support for more filetypes, color tweaks, ncurses-style menus with dialog.
 
 # PURPOSE
 
