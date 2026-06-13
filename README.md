@@ -14,7 +14,7 @@ Minimal system resource usage and is well suited to running in a headless enviro
 
 # SYSTEM REQUIREMENTS
 
-As long as your system can run ffmpeg, the minimal system requirements are sufficient. The more CPU and RAM you have, the faster the video conversion will be.
+As long as your system can run ffmpeg, the system requirements are sufficient. The more CPU and RAM you have, the faster the video conversion will be.
 
 Although this bash scripts was designed to run on linux debian clones (eg. ubuntu, mint, debian etc) it can be run on arch or other linux derivatives through a simple conversion process. However, this is out of the scope of this script. Additional research is recommended.
 
