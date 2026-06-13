@@ -33,7 +33,9 @@ Execute script with the first parameter to the source videos directory and the s
 
 ![First screen](Screenshot-1.png)
 ![Resolution screen](Screenshot-2.png)
-![Error screen](Screenshot-3.png)   
+![Conversion screen](Screenshot-4.png)
+
+<img src="Screenshot-1.png" width="400" alt="First screen">   
 
 # DISCLAIMER
 Please review this script carefully. NEVER run
