@@ -23,15 +23,21 @@ mp4, avi, mkv, webm, 3gp, flv, wmv, mts, and mov.
 
 Although this bash scripts was designed to run on linux debian clones (eg. ubuntu, mint, debian etc) it can be run on arch or other linux derivatives through a simple conversion process. However, this is out of the scope of this script. Additional research is recommended.
 
-
 # INSTALLATION
 
 Execute script with the first parameter to the source videos directory and the second parameter to the destination videos directory. Script can be run as unpriviledged user:
 
 ./video-rescale-repair-script-vX.sh (source-dir) (target-dir)
 
+# SCREENSHOTS
+
+![First screen](Screenshot-1.png)
+![Resolution screen](Screenshot-2.png)
+![Error screen](Screenshot-3.png)   
+
 # DISCLAIMER
-Please review this script carefully. NEVER run a script blindly without understanding what it could do. Don't trust me. Google around to find out more. Please research, research, research.
+Please review this script carefully. NEVER run
+a script blindly without understanding what it could do. Don't trust me. Google around to find out more. Please research, research, research.
 
 # LEGAL
 Please note that by downloading and running this script you acknowledge that I am not responsible or liable for any damages or losses arising from your use or inability to use the script and or software used under this script. You are solely responsible for your use of this script. If you harm someone or get into a dispute with a 3rd party, you consent to me waiving any involvement.
