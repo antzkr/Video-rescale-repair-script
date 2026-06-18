@@ -1,0 +1,12 @@
+Video Rescale and Repair script
+
+Change-log:~
+
+3.2
+Rewrite to include positional parameter support, ffmpeg installed check, supported file extension check, show successful result, percentage & ETA display, added support for more filetypes, color tweaks, ncurses-style menus with dialog.
+
+3.1
+Bug fixes, logic rewrite, visual updates.
+
+3.0
+Public release.
