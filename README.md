@@ -22,7 +22,7 @@ This scripts was designed to run on linux debian clones (eg. ubuntu, mint, debia
 
 # INSTALLATION
 
-Execute script with the first parameter to the source videos directory and the second parameter to the destination videos directory. Script can be run as unpriviledged user:
+Execute script with the first parameter to the source videos directory and the second parameter to the destination videos directory. Script can be run as unprivileged user:
 
     ./video-rescale-repair-script-vX.sh (source-dir) (target-dir)
 
